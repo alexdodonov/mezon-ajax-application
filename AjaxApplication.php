@@ -16,7 +16,6 @@ namespace Mezon\Application;
  */
 abstract class AjaxApplication extends \Mezon\Application\Application
 {
-    // TODO move AjaxApplication and AjaxMethodsTrait into separate package
 
     use \Mezon\Application\AjaxMethodsTrait;
 
