@@ -20,10 +20,10 @@
 	},
 	"support": {
 		"email": "alexey@dodonov.pro",
-		"issues": "https://github.com/alexdodonov/ajax-application/issues",
-		"source": "https://github.com/alexdodonov/ajax-application"
+		"issues": "https://github.com/alexdodonov/mezon-ajax-application/issues",
+		"source": "https://github.com/alexdodonov/mezon-ajax-application"
 	},
-	"homepage": "https://github.com/alexdodonov/ajax-application",
+	"homepage": "https://github.com/alexdodonov/mezon-ajax-application",
 	"autoload": {
 		"psr-4": {
 			"Mezon\\": ""
