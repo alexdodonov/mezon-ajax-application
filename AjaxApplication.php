@@ -14,7 +14,7 @@ namespace Mezon\Application;
 /**
  * Base class of the ajax-application
  */
-abstract class AjaxApplication extends \Mezon\Application\Application
+class AjaxApplication extends \Mezon\Application\Application
 {
 
     use \Mezon\Application\AjaxMethodsTrait;
