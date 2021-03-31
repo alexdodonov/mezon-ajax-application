@@ -20,7 +20,7 @@ trait AjaxMethodsTrait
     /**
      * Method finishes ajax requests processing
      */
-    protected function ajaxRequestSuccess()
+    protected function ajaxRequestSuccess(): void
     {
         print(json_encode([
             "code" => 0
@@ -32,7 +32,7 @@ trait AjaxMethodsTrait
     /**
      * Method finishes ajax requests processing and returns result
      */
-    protected function ajaxRequestResult($result)
+    protected function ajaxRequestResult($result): void
     {
         print(json_encode($result));
 
@@ -47,7 +47,7 @@ trait AjaxMethodsTrait
      * @param int $code
      *            Error code
      */
-    protected function ajaxRequestError(string $message, int $code = - 1)
+    protected function ajaxRequestError(string $message, int $code = - 1): void
     {
         print(json_encode([
             "message" => $message,
