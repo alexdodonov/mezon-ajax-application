@@ -26,7 +26,7 @@ More information can be found here:
 - [Dev.to](https://dev.to/alexdodonov)
 - [Medium](https://gdvever.medium.com/)
 
-# I'll be very glad if you'll press "STAR" button )
+# It will be great if you will contribute something to this project. Documentation, sharing the project in your social media, bug fixing, refactoring, or even [submitting issue](https://github.com/alexdodonov/mezon-ajax-application/issues) with question or feature request. Thanks anyway ) I'll be very glad if you'll press "STAR" button )
 
 # Exception handling
 
