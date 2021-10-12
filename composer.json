@@ -26,7 +26,7 @@
 	"homepage": "https://github.com/alexdodonov/mezon-ajax-application",
 	"autoload": {
 		"psr-4": {
-			"Mezon\\": ""
+			"Mezon\\": "./Mezon"
 		}
 	},
 	"scripts": {
